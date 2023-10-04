@@ -1,4 +1,4 @@
-![1662326080282](https://github.com/owoeye-babatunde/owoeye-babatunde/assets/74650901/b84aff3c-fd65-493e-bf68-5ccbfd9044bb)### Hi there 👋
+### Hi there 👋
 
 <!--
 **owoeye-babatunde/owoeye-babatunde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
