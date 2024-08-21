@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Babatunde Owoeye, a passionate Machine Learning engineer.
+I'm Babatunde Owoeye, a passionate Algorithm developer and Machine Learning engineer.
 
 - 🔭 I'm currently working on a personal Machine Learning project.
 - 🌱 I'm constantly learning about machine learning system architecture.
