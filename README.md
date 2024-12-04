@@ -23,12 +23,12 @@ With years of experience in AI and Machine Learning, I specialize in merging bus
 
 - **Medical RAG System**  
   *A Retrieval-Augmented Generation system that empowers doctors with faster and more accurate diagnoses by processing complex medical records.*  
-  - 💡 *Impact: Revolutionized diagnostic efficiency for healthcare professionals.*  
+  - 💡 *Impact: Revolutionized diagnostic efficiency for healthcare professionals at TauSpan.*  
 
 ### 🏅 Key Achievements  
 - **Deployed RAG Systems** for healthcare and finance.  
 - **Integrated LLMs** seamlessly into production environments with millions of users.  
-- Recipient of **[Insert Prestigious Award]**, recognizing my innovation in AI solutions.  
+- Recipient of **Shells Energy 2022 | AI Qualification Bootcamp(2021 & 2023)**, recognizing my innovation in AI solutions.  
 
 ---
 
@@ -43,17 +43,17 @@ However, I occasionally need to adapt and use different tools based on specific 
 - **Languages**: Python(6 years), Rust
 - **Database**: SQL
 - **Real-time Data Streaming**: Kafka/Redpanda, Quixstreams, Bytewax
-- **Frameworks & Libraries**: PyTorch, TensorFlow, Scikit-learn, Pandas, LangChain LLamaIndex 
-- **MLOps Tools**: Docker, Kubernetes, Apache Kafka, Optuna, Great Expectations
+- **Frameworks & Libraries**: PyTorch, TensorFlow, Scikit-learn, Optuna, Pandas, LangChain LLamaIndex 
+- **MLOps Tools**: Docker, Kubernetes, Apache Kafka, Great Expectations
 - **Orchestration**: Docker, Docker Compose, Kubernetes
 - **Cloud & Infrastructure**: AWS, GCP
 - **Code Editor**: Visual Studio Code, Jupyter Notebook
 - **Version Control**: Git
-- **Package Manager**: Pip, Python Poetry, UV(Currently), Cargo(Rust)
+- **Package Manager**: Pip, Python Poetry, UV(Currently), Cargo(for Rust)
 - **Operating Systems**: Linux(Most active), Windows
 - **Feature Store**: Hopsworks
-- **Experiment Tracking and Model Registry**: Hopsworks
-- **Other Accessories**: Make tools, HopsWorks, CometML, , RestAPI/FastAPI
+- **Experiment Tracking and Model Registry**: CometML
+- **Other Accessories**: Make tools, RestAPI/FastAPI
 
 ---
 
