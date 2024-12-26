@@ -21,7 +21,7 @@ With years of experience in AI and Machine Learning, I specialize in merging bus
   *An AI-enhanced trading signal system for cryptocurrencies, featuring real-time analysis, multi-platform delivery, and automation.*  
   - 🚀 *Result: Delivered highly accurate trade signals with a streamlined user experience.*  
 
-- **Medical RAG System**  
+- **Medical AI Agent**  
   *A Retrieval-Augmented Generation system that empowers doctors with faster and more accurate diagnoses by processing complex medical records.*  
   - 💡 *Impact: Revolutionized diagnostic efficiency for healthcare professionals at TauSpan.*  
 
