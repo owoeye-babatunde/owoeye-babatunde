@@ -58,7 +58,7 @@ However, I occasionally need to adapt and use different tools based on specific 
 ---
 
 ## 🌐 Connect with Me  
-- 💼 **Email**: babatundeowoeye7@gmail.com
+- 💼 **Email**: owoeyebabatunde01@gmail.com
 - 🐦 **X**: [@babsman](https://x.com/neuralsofth)  
 
 ---
