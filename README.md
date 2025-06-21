@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub!
 
-Hi there! I'm **Babatunde O. Owoeye**, a passionate **RAG | LLMOps | MLOps Engineer** with deep expertise in **Machine Learning** and a proven track record of delivering impactful AI-driven solutions.  
+Hi there! I'm **Babatunde O. Owoeye**, a passionate **RAG | LLMOps | MLOps Engineer** with deep expertise in **Machine Learning** , **Computer Vision**, and a proven track record of delivering impactful AI-driven solutions.  
 
 🌟 My mission is to **bridge the gap between cutting-edge AI research and real-world applications**, crafting scalable, reliable systems that make a difference.  
 
